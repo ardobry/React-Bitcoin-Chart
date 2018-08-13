@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+body {
+  margin: 50px;
+  padding: 0;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.container{
+  margin-bottom: 20px;
+}
+
+.one{
+  width: 32%;
+  display: inline-block;
+  border-right: 1px solid #777;
+}
+
+.two{
+  width: 32%;
+  display: inline-block;
+  border-right: 1px solid #777;
+}
+
+.three{
+  width: 34%;
+  display: inline-block
+}
+
+.data{
+  font-size: 3em;
+  color: rgba(211, 136, 51, 0.808);
+}
+
+.info{
+  color: rgb(124, 85, 40);
+}
